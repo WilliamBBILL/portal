@@ -37,7 +37,7 @@ structures. We will change in the next section.
 
 ## Add the question data structure
 
-For our poll app, we want to the poll to have the main question. For example, "What is the best blockchain?"
+For our poll app, we want the poll to have the main question. For example, "What is the best blockchain?"
 
 To add the question, include the following code inside the actor:
 
